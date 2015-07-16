@@ -1,0 +1,24 @@
+<itk:DistributionEnvelope xmlns:itk="urn:nhs-itk:ns:201005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<itk:header service="__SERVICE__" trackingid="__TRACKING_ID__">
+		<itk:addresslist>
+			<itk:address __TO_OID__ uri="__TO_URI__"/>
+		</itk:addresslist>
+		<itk:auditIdentity>
+			<itk:id uri="__AUDIT_ID__"/>
+		</itk:auditIdentity>
+		<itk:manifest count="1">			
+                        <itk:manifestitem id="uuid___PAYLOAD_ID__" mimetype="text/xml"/>
+		</itk:manifest>
+		<itk:senderAddress uri="__SENDER__"/>
+	</itk:header>
+	<itk:payloads count="1">
+		<itk:payload id="uuid___PAYLOAD_ID__">
+			<itk:InfrastructureResponse xmlns:itk="urn:nhs-itk:ns:201005" timestamp="__TIMESTAMP__" serviceRef="__SERVICE_REF__" trackingIdRef="__TRACKING_ID_REF__" result="OK">
+				<itk:reportingIdentity>
+					<itk:id uri="__AUDIT_ID__"/>
+					<itk:errors/>
+				</itk:reportingIdentity>
+			</itk:InfrastructureResponse>
+		</itk:payload>
+	</itk:payloads>
+</itk:DistributionEnvelope>

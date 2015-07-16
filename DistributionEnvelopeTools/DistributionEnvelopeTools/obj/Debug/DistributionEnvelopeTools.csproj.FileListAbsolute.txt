@@ -1,0 +1,11 @@
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\bin\Debug\DistributionEnvelopeTools.config
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\bin\Debug\DistributionEnvelopeTools.dll
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\bin\Debug\DistributionEnvelopeTools.pdb
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\obj\Debug\DistributionEnvelopeTools.dll
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\obj\Debug\DistributionEnvelopeTools.pdb
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeTools\bin\Debug\DistributionEnvelopeTools.config
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeTools\bin\Debug\DistributionEnvelopeTools.dll
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeTools\bin\Debug\DistributionEnvelopeTools.pdb
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeTools\obj\Debug\DistributionEnvelopeTools.dll
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeTools\obj\Debug\DistributionEnvelopeTools.pdb

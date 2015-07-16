@@ -1,0 +1,6 @@
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\bin\Release\DistributionEnvelopeTools.dll
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\bin\Release\DistributionEnvelopeTools.pdb
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\obj\Release\DistributionEnvelopeTools.dll
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\obj\Release\DistributionEnvelopeTools.pdb
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeTools\bin\Release\DistributionEnvelopeTools.config

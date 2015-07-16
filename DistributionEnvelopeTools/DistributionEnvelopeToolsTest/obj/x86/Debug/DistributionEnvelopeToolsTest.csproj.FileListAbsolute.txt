@@ -1,0 +1,16 @@
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\bin\Debug\DistributionEnvelopeTools.config
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\bin\Debug\DistributionEnvelopeToolsTest.exe
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\bin\Debug\DistributionEnvelopeToolsTest.pdb
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\bin\Debug\DistributionEnvelopeTools.dll
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\bin\Debug\DistributionEnvelopeTools.pdb
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\obj\x86\Debug\DistributionEnvelopeToolsTest.exe
+D:\Documents and Settings\DAMU2\my documents\visual studio 2010\Projects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\obj\x86\Debug\DistributionEnvelopeToolsTest.pdb
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\obj\x86\Debug\DistributionEnvelopeToolsTest.exe
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\obj\x86\Debug\DistributionEnvelopeToolsTest.pdb
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\bin\Debug\DistributionEnvelopeTools.config
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\bin\Debug\DistributionEnvelopeToolsTest.exe
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\bin\Debug\DistributionEnvelopeToolsTest.pdb
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\bin\Debug\DistributionEnvelopeTools.dll
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\bin\Debug\DistributionEnvelopeTools.pdb
+C:\Users\damian\Desktop\w7-share\VS2010Eprojects\DistributionEnvelopeTools\DistributionEnvelopeToolsTest\obj\x86\Debug\DistributionEnvelopeToolsTest.csprojResolveAssemblyReference.cache
