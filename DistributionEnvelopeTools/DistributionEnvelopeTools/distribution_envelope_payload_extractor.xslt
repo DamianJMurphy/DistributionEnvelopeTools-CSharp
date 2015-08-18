@@ -44,13 +44,13 @@
 			</xsl:choose>			
 			<xsl:text>####PAYLOADBODY:=</xsl:text>
 			<xsl:choose>
-				<xsl:when test="$encr='true' or (contains($mt,'xml') and $cmp='false' and $b64='false')">
+				<xsl:when test="$encr='true' or (contains($mt,'xml') and not($cmp='true') and not($b64='true'))">
 					<xsl:for-each select="../../../itk:payloads/itk:payload[@id=$mfstid]/*[1]">
 						<xsl:copy-of select="."/>
 					</xsl:for-each>
 				</xsl:when>
 				<xsl:otherwise>
-					<xsl:value-of select="../../../itk:payloads/itk:payload[@id=$mfstid]"/>
+					<xsl:copy-of select="../../../itk:payloads/itk:payload[@id=$mfstid]/text()"/>
 				</xsl:otherwise>
 			</xsl:choose>
 			<xsl:text>#-#-#-#-#-#-#-#-#</xsl:text>
